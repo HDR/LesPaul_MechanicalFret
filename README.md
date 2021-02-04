@@ -2,7 +2,7 @@
 A replacement Fret board that replaces the rubber membranes with mechancial switches
 
 ### Summary
-- Compatible with all Les Paul Guitars
+- Compatible with xbox and ps3 Les Paul Guitars
 - Compatible with all Kailh 1350 Choc switches, giving you a wide variety of options
 - Requires some trimming of the buttons and the neck (Removing some plastic)
 - Some trimming of the holes in the pcb may be required if the fit is too tight
