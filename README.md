@@ -1,4 +1,4 @@
-# Les Paul Mehcnaical Fret
+# Les Paul Mechanical Fret
 A replacement Fret board that replaces the rubber membranes with mechancial switches
 
 ### Summary
